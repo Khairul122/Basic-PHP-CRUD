@@ -1,0 +1,1 @@
+<a href="create.php">New Record</a> | <a href="read.php"> View</a>  
